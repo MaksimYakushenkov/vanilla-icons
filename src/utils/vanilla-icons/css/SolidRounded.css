@@ -1,0 +1,92 @@
+.vi-sr-check {
+  mask-image: url('../solid-rounded/vi-sr-check.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-check.svg');
+}
+.vi-sr-checkbox {
+  mask-image: url('../solid-rounded/vi-sr-checkbox.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-checkbox.svg');
+}
+.vi-sr-cross-circle {
+  mask-image: url('../solid-rounded/vi-sr-cross-circle.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-cross-circle.svg');
+}
+.vi-sr-cross-small {
+  mask-image: url('../solid-rounded/vi-sr-cross-small.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-cross-small.svg');
+}
+.vi-sr-cross {
+  mask-image: url('../solid-rounded/vi-sr-cross.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-cross.svg');
+}
+.vi-sr-edit-alt {
+  mask-image: url('../solid-rounded/vi-sr-edit-alt.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-edit-alt.svg');
+}
+.vi-sr-edit {
+  mask-image: url('../solid-rounded/vi-sr-edit.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-edit.svg');
+}
+.vi-sr-envelope {
+  mask-image: url('../solid-rounded/vi-sr-envelope.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-envelope.svg');
+}
+.vi-sr-globe {
+  mask-image: url('../solid-rounded/vi-sr-globe.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-globe.svg');
+}
+.vi-sr-heart {
+  mask-image: url('../solid-rounded/vi-sr-heart.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-heart.svg');
+}
+.vi-sr-home {
+  mask-image: url('../solid-rounded/vi-sr-home.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-home.svg');
+}
+.vi-sr-marker {
+  mask-image: url('../solid-rounded/vi-sr-marker.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-marker.svg');
+}
+.vi-sr-menu-burger {
+  mask-image: url('../solid-rounded/vi-sr-menu-burger.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-menu-burger.svg');
+}
+.vi-sr-phone-call {
+  mask-image: url('../solid-rounded/vi-sr-phone-call.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-phone-call.svg');
+}
+.vi-sr-search {
+  mask-image: url('../solid-rounded/vi-sr-search.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-search.svg');
+}
+.vi-sr-settings-sliders {
+  mask-image: url('../solid-rounded/vi-sr-settings-sliders.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-settings-sliders.svg');
+}
+.vi-sr-settings {
+  mask-image: url('../solid-rounded/vi-sr-settings.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-settings.svg');
+}
+.vi-sr-shopping-cart-add {
+  mask-image: url('../solid-rounded/vi-sr-shopping-cart-add.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-shopping-cart-add.svg');
+}
+.vi-sr-shopping-cart-check {
+  mask-image: url('../solid-rounded/vi-sr-shopping-cart-check.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-shopping-cart-check.svg');
+}
+.vi-sr-shopping-cart {
+  mask-image: url('../solid-rounded/vi-sr-shopping-cart.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-shopping-cart.svg');
+}
+.vi-sr-user {
+  mask-image: url('../solid-rounded/vi-sr-user.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-user.svg');
+}
+.vi-sr-users-alt {
+  mask-image: url('../solid-rounded/vi-sr-users-alt.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-users-alt.svg');
+}
+.vi-sr-users {
+  mask-image: url('../solid-rounded/vi-sr-users.svg');
+  -webkit-mask-image: url('../solid-rounded/vi-sr-users.svg');
+}

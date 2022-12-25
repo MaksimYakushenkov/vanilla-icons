@@ -1,0 +1,92 @@
+.vi-br-check {
+  mask-image: url('../bold-rounded/vi-br-check.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-check.svg');
+}
+.vi-br-checkbox {
+  mask-image: url('../bold-rounded/vi-br-checkbox.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-checkbox.svg');
+}
+.vi-br-cross-circle {
+  mask-image: url('../bold-rounded/vi-br-cross-circle.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-cross-circle.svg');
+}
+.vi-br-cross-small {
+  mask-image: url('../bold-rounded/vi-br-cross-small.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-cross-small.svg');
+}
+.vi-br-cross {
+  mask-image: url('../bold-rounded/vi-br-cross.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-cross.svg');
+}
+.vi-br-edit-alt {
+  mask-image: url('../bold-rounded/vi-br-edit-alt.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-edit-alt.svg');
+}
+.vi-br-edit {
+  mask-image: url('../bold-rounded/vi-br-edit.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-edit.svg');
+}
+.vi-br-envelope {
+  mask-image: url('../bold-rounded/vi-br-envelope.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-envelope.svg');
+}
+.vi-br-globe {
+  mask-image: url('../bold-rounded/vi-br-globe.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-globe.svg');
+}
+.vi-br-heart {
+  mask-image: url('../bold-rounded/vi-br-heart.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-heart.svg');
+}
+.vi-br-home {
+  mask-image: url('../bold-rounded/vi-br-home.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-home.svg');
+}
+.vi-br-marker {
+  mask-image: url('../bold-rounded/vi-br-marker.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-marker.svg');
+}
+.vi-br-menu-burger {
+  mask-image: url('../bold-rounded/vi-br-menu-burger.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-menu-burger.svg');
+}
+.vi-br-phone-call {
+  mask-image: url('../bold-rounded/vi-br-phone-call.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-phone-call.svg');
+}
+.vi-br-search {
+  mask-image: url('../bold-rounded/vi-br-search.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-search.svg');
+}
+.vi-br-settings-sliders {
+  mask-image: url('../bold-rounded/vi-br-settings-sliders.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-settings-sliders.svg');
+}
+.vi-br-settings {
+  mask-image: url('../bold-rounded/vi-br-settings.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-settings.svg');
+}
+.vi-br-shopping-cart-add {
+  mask-image: url('../bold-rounded/vi-br-shopping-cart-add.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-shopping-cart-add.svg');
+}
+.vi-br-shopping-cart-check {
+  mask-image: url('../bold-rounded/vi-br-shopping-cart-check.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-shopping-cart-check.svg');
+}
+.vi-br-shopping-cart {
+  mask-image: url('../bold-rounded/vi-br-shopping-cart.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-shopping-cart.svg');
+}
+.vi-br-user {
+  mask-image: url('../bold-rounded/vi-br-user.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-user.svg');
+}
+.vi-br-users-alt {
+  mask-image: url('../bold-rounded/vi-br-users-alt.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-users-alt.svg');
+}
+.vi-br-users {
+  mask-image: url('../bold-rounded/vi-br-users.svg');
+  -webkit-mask-image: url('../bold-rounded/vi-br-users.svg');
+}

@@ -1,0 +1,11 @@
+.vanilla-icon {
+  display: inline-block;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all 0.2s;
+}
+
+.vanilla-icon__color-default {
+  background-color: #000000;
+}
