@@ -15,7 +15,7 @@ function App() {
           RegularIconsList.map(((icon, index) =>
           <tr key={index}>
             <td  className='icon__container'>
-              <VanillaIcon icon={icon} color="icon-primary-color" size={30}/>
+              <VanillaIcon icon={icon} color="icon-primary-color" size={60}/>
               <h3>{icon}</h3>
             </td>
           </tr>
@@ -30,7 +30,7 @@ function App() {
           SolidIconsList.map(((icon, index) =>
           <tr key={index}>
             <td  className='icon__container'>
-              <VanillaIcon icon={icon} color="icon-primary-color" size={30}/>
+              <VanillaIcon icon={icon} color="icon-primary-color" size={60}/>
               <h3>{icon}</h3>
             </td>
           </tr>
@@ -45,7 +45,7 @@ function App() {
           BoldIconsList.map(((icon, index) =>
           <tr key={index}>
             <td  className='icon__container'>
-              <VanillaIcon icon={icon} color="icon-primary-color" size={30}/>
+              <VanillaIcon icon={icon} color="icon-primary-color" size={60}/>
               <h3>{icon}</h3>
             </td>
           </tr>

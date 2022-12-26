@@ -1,6 +1,7 @@
 {
   "name": "vanilla-icons",
   "version": "1.0.0",
+  "homepage": "https://maksimyakushenkov.github.io/vanilla-icons/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -17,6 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
