@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vanilla-icons/static/css/main.16ccf663.css",
-    "main.js": "/vanilla-icons/static/js/main.901ae191.js",
+    "main.js": "/vanilla-icons/static/js/main.d890a0b5.js",
     "static/js/787.4e11e35b.chunk.js": "/vanilla-icons/static/js/787.4e11e35b.chunk.js",
     "static/media/vi-br-settings.svg": "/vanilla-icons/static/media/vi-br-settings.86e9ae8b33c115bfdf85.svg",
     "static/media/vi-sr-settings-sliders.svg": "/vanilla-icons/static/media/vi-sr-settings-sliders.9a169916145e5f939899.svg",
@@ -74,11 +74,11 @@
     "static/media/vi-rr-search.svg": "/vanilla-icons/static/media/vi-rr-search.37d85c92c5238963545d.svg",
     "static/media/vi-rr-menu-burger.svg": "/vanilla-icons/static/media/vi-rr-menu-burger.b1064ed2771dcf512469.svg",
     "main.16ccf663.css.map": "/vanilla-icons/static/css/main.16ccf663.css.map",
-    "main.901ae191.js.map": "/vanilla-icons/static/js/main.901ae191.js.map",
+    "main.d890a0b5.js.map": "/vanilla-icons/static/js/main.d890a0b5.js.map",
     "787.4e11e35b.chunk.js.map": "/vanilla-icons/static/js/787.4e11e35b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16ccf663.css",
-    "static/js/main.901ae191.js"
+    "static/js/main.d890a0b5.js"
   ]
 }
